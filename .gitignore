@@ -1,2 +1,17 @@
-# Google App Engine generated folder
-appengine-generated/
+
+your_medicine_zone/
+├── android/
+├── ios/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── login_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── medicine_list.dart
+│   │   ├── upload_prescription.dart
+│   ├── widgets/
+│   │   ├── medicine_card.dart
+│   └── models/
+│       └── medicine_model.dart
+├── pubspec.yaml
+└── README.md
